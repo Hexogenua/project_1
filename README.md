@@ -19,6 +19,7 @@ Nhà cung cấp: OrgName của IP (gõ lệnh whois <ip> để xem). Có thể d
 VD:
 
 Giao thức - Server kết nối     - Nhà cung cấp - Địa chỉ                                 - Trạng thái
+
 TCP         64.233.188.189:443   Google LLC     Mountain View, California, United States  ESTABLISHED
 
 Db dùng sql
