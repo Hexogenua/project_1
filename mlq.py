@@ -2,7 +2,7 @@ import mysql.connector, ipaddress, os, whois
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="Quang123**",
+  passwd="",
   database="ip2location"
 
 )
